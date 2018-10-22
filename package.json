@@ -1,5 +1,5 @@
 {
-  "name": "download-for-all",
+  "name": "downloader-multiformat",
   "version": "1.0.0",
   "description": "Download whatever you want!!",
   "main": "index.js",
