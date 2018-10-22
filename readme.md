@@ -11,7 +11,7 @@ npm i -s download-all
 
 ```js
 
-const DownloadAll = require('download-all);
+const DownloaderMultiformat = require('download-multiformat);
 
 const iTermDownload = {
     url: 'https://iterm2.com/downloads/stable/latest'
@@ -19,6 +19,6 @@ const iTermDownload = {
     , path: `${process.cwd()}/downloads`
 };
 
-DownloadAll(iTermDownload);
+DownloaderMultiformat(iTermDownload);
 
 ```
