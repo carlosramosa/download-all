@@ -1,4 +1,4 @@
-# DOWNLOAD ALL
+# DOWNLOADER MULTIFORMAT
 
 
 This module allows you to download any file, specifying its URL, its format and, optionally, the destination path (by default the root of the project)
