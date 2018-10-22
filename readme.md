@@ -16,6 +16,7 @@ const DownloaderMultiformat = require('download-multiformat);
 const iTermDownload = {
     url: 'https://iterm2.com/downloads/stable/latest'
     , name: 'iTerm2'
+    , format: 'zip'
     , path: `${process.cwd()}/downloads`
 };
 

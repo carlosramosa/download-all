@@ -3,9 +3,9 @@
 const request = require('request-promise');
 const fs = require('fs');
 
-module.exports = ({ name, url, path = process.cwd()}) =>
+module.exports = ({ name, url, format, path = process.cwd()}) =>
     request(url)
-    .pipe(fs.createWriteStream(`${path}/${name}.zip`))
+    .pipe(fs.createWriteStream(`${path}/${name}.${format}`))
     .on('close', () => {
         console.log(`${name}.zip written`);
     });
