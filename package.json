@@ -1,6 +1,6 @@
 {
   "name": "downloader-multiformat",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Download whatever you want!!",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "fsf"
+    "url": "https://github.com/carlosramosa/downloader-multiformat"
   },
   "author": "ramosar",
   "license": "ISC",
