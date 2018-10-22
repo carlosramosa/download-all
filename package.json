@@ -1,6 +1,6 @@
 {
   "name": "downloader-multiformat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Download whatever you want!!",
   "main": "index.js",
   "scripts": {

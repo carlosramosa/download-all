@@ -5,14 +5,14 @@ This module allows you to download any file, specifying its URL, its format and,
 
 * INSTALL
 ```js
-npm i -s download-all
+npm i downloader-multiformat
 ```
 * USAGE
 
 ```js
-
 const DownloaderMultiformat = require('download-multiformat);
-
+```
+```js
 const iTermDownload = {
     url: 'https://iterm2.com/downloads/stable/latest'
     , name: 'iTerm2'
