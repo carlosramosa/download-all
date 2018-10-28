@@ -10,7 +10,7 @@ npm i downloader-multiformat
 * USAGE
 
 ```js
-const DownloaderMultiformat = require('download-multiformat);
+const DownloaderMultiformat = require('downloader-multiformat);
 ```
 ```js
 const iTermDownload = {
